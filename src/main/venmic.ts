@@ -62,7 +62,7 @@ function getRendererAudioServicePid() {
         app
             .getAppMetrics()
             .find(proc => proc.name === "Audio Service")
-            ?.pid?.toString() ?? "owo"
+            ?.pid?.toString() ?? "uwu"
     );
 }
 
