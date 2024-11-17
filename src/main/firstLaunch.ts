@@ -63,7 +63,7 @@ export function createFirstLaunchTour() {
                     copyFileSync(join(from, file), join(to, file));
                 }
             } catch (e) {
-                console.error("Failed to import settings:", e);
+                console.error("Failed to import settings,:", e);
             }
         }
 
