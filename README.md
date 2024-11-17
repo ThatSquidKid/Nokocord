@@ -1,6 +1,6 @@
 # Vesktop
 
-Vesktop is a custom Discord desktop app
+Nokocord is a custom Discord desktop app, modded from VeskTop
 
 **Main features**:
 - Vencord preinstalled
